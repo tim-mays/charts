@@ -5,6 +5,7 @@ questions:
   - variable: image
     description: "Docker Image Details"
     group: "Container Images"
+    label: "A Label"
     schema:
       type: dict
       required: true
